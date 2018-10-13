@@ -1,0 +1,60 @@
+2018-10-11 13:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-11 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-11 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E01 - L-O-N-- LONDON (1) - [720p hdtv h264].mkv was Speechless
+2018-10-11 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Last Ship/The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv was The Last Ship
+2018-10-11 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/American Horror Story/American Horror Story - S08E05 - Boy Wonder - [720p webrip h264].mkv was American Horror Story
+2018-10-11 13:30 INFO     download      download-series-rss Downloading: The Flash 2014 S05E01 iNTERNAL 1080p WEB X264-EDHD[rarbg]
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno 111] Connection refused
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno 111] Connection refused
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno 111] Connection refused
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno 111] Connection refused
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno -2] Name or service not known
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: [Errno -2] Name or service not known
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  urllib3.connectionpool                 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f11f4266590>: Failed to establish a new connection: [Errno 111] Connection refused',)': /scrape?info_hash=%ED%5D2%A5%5D%B5%AA%0FH%88%06%EC%D1%A9%94%E5%25%7C%00%82
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  torrent_alive                 Socket Error: timed out
+2018-10-11 13:30 WARNING  urllib3.connectionpool                 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f11f46d6c90>, 'Connection to share.camoe.cn timed out. (connect timeout=30)')': /scrape?info_hash=%ED%5D2%A5%5D%B5%AA%0FH%88%06%EC%D1%A9%94%E5%25%7C%00%82
+2018-10-11 13:30 WARNING  urllib3.connectionpool                 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f11f42666d0>, 'Connection to tracker.tfile.co timed out. (connect timeout=30)')': /scrape?info_hash=%ED%5D2%A5%5D%B5%AA%0FH%88%06%EC%D1%A9%94%E5%25%7C%00%82
+2018-10-11 13:30 WARNING  urllib3.connectionpool                 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f11f4266d50>, 'Connection to retracker.spb.ru timed out. (connect timeout=30)')': /scrape?info_hash=%ED%5D2%A5%5D%B5%AA%0FH%88%06%EC%D1%A9%94%E5%25%7C%00%82
+2018-10-11 13:31 INFO     api_tvdb      download-series-rss Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-11 13:31 ERROR    lazy_lookup   download-series-rss Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+2018-10-11 13:31 CRITICAL manager       download-series-rss An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.11.133119430514.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-11 13:31 INFO     transmission  download-series-rss "The Flash 2014 S05E01 iNTERNAL 1080p WEB X264-EDHD[rarbg]" torrent added to transmission
+2018-10-11 13:45 INFO     api_tvdb      move-series     Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-11 13:45 ERROR    lazy_lookup   move-series     Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+2018-10-11 13:45 CRITICAL manager       move-series     An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.11.134501125146.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-11 13:47 INFO     move          move-series     `/mnt/BISMARK/downloads/series/The Flash (2014)/The.Flash.2014.S05E01.iNTERNAL.1080p.WEB.X264-EDHD[rarbg]/The Flash (2014) - S05E01 - [1080p webdl h264].mkv` has been moved to `/mnt/YAMATO/Series/The Flash (2014)/The Flash (2014) - S05E01 - [1080p webdl h264].mkv`
+2018-10-11 13:47 INFO     move          move-series     Path `/mnt/BISMARK/downloads/series/The Flash (2014)/The.Flash.2014.S05E01.iNTERNAL.1080p.WEB.X264-EDHD[rarbg]` has been deleted because was less than clean_source safe value.
+2018-10-11 13:47 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-11 13:47 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-11 13:47 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/American Horror Story/American Horror Story - S08E05 - Boy Wonder - [720p webrip h264].mkv was American Horror Story
+2018-10-11 13:47 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Flash (2014)/The Flash (2014) - S05E01 - [1080p webdl h264].mkv was The Flash
+2018-10-11 13:47 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Last Ship/The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv was The Last Ship
+2018-10-11 13:47 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E01 - L-O-N-- LONDON (1) - [720p hdtv h264].mkv was Speechless
+2018-10-11 14:00 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-11 14:00 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

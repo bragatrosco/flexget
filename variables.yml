@@ -1,0 +1,17 @@
+# info to set transmission
+transmission:
+  user: debian-transmission
+  pass: 466874
+ 
+# info to set pushover
+pushover:
+  userkey: utfFB1XVb6N8aLN6PQnzcETBCr1CN1
+  apikey: aife8ehr4iei3vnpgmi2q4dssp3xe1
+  
+legendastv:
+  userkey: bragatrosco
+  password: 466874
+  
+opensubtitles:
+  userkey: bragatrosco
+  password: 466874

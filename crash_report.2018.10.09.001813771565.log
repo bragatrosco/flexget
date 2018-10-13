@@ -1,0 +1,60 @@
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Good Doctor/The Good Doctor - S02E03 - 36 Hours - [hdtv h264].mkv was The Good Doctor
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E01 - L-O-N-- LONDON (1) - [720p hdtv h264].mkv was Speechless
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Channel Zero/Channel Zero - S04E01 - Ashes On My Pillow - [720p webdl h264].mkv was Channel Zero
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/A Discovery of Witches/A Discovery of Witches - S01E04 - Episode 4 - [720p hdtv h264].mkv was A Discovery of Witches
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Kidding/Kidding - S01E05 - The New You - [720p webdl h264].mkv was Kidding
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E02 - A Philadelphia Story - [720p hdtv h264].mkv was This Is
+2018-10-08 23:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Last Ship/The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv was The Last Ship
+2018-10-08 23:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-08 23:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Good Doctor/The Good Doctor - S02E03 - 36 Hours - [hdtv h264].mkv was The Good Doctor
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E01 - L-O-N-- LONDON (1) - [720p hdtv h264].mkv was Speechless
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Channel Zero/Channel Zero - S04E01 - Ashes On My Pillow - [720p webdl h264].mkv was Channel Zero
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/A Discovery of Witches/A Discovery of Witches - S01E04 - Episode 4 - [720p hdtv h264].mkv was A Discovery of Witches
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Kidding/Kidding - S01E05 - The New You - [720p webdl h264].mkv was Kidding
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E02 - A Philadelphia Story - [720p hdtv h264].mkv was This Is
+2018-10-08 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Last Ship/The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv was The Last Ship
+2018-10-09 00:01 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-09 00:01 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-09 00:02 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for The Odyssey (1997) - [xvid]
+2018-10-09 00:03 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for geckos-tdro-1968-720p
+2018-10-09 00:05 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for 1-A Conspiração
+2018-10-09 00:05 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for 2-Golpe de Estado
+2018-10-09 00:05 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for 3-O Escolhido
+2018-10-09 00:06 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for Hail Ceaser.2016.480p.HC.WEBRip.700MB.MkvCage
+2018-10-09 00:08 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for www.Gaoqingkong.com  
+2018-10-09 00:08 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-09 00:08 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for Les.Salauds.AKA.Bastards.2013.720p.WEB-DL.DD5.1.h264-PTP
+2018-10-09 00:10 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for La.Mecanique.de.L.Ombre.2016.BDRip-DoKtor
+2018-10-09 00:10 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for twiz-crazystupidlove-a
+2018-10-09 00:10 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for twiz-crazystupidlove-b
+2018-10-09 00:10 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for twiz-crazystupidlove-sample
+2018-10-09 00:11 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-09 00:11 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for Sensitive Clit and Big Pussy Lips and PIR@TE
+2018-10-09 00:13 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for Freistatt_Sanctuary.2015.german.BDRip.x264
+2018-10-09 00:13 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for Fusi aka Virgin Mountain 2015 DVDRip
+2018-10-09 00:14 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for sample 1
+2018-10-09 00:14 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for The Pink Floyd And Syd Barrett Story [2001]
+2018-10-09 00:15 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for rusted-the.curse.of.the.living.beauty.1080p.bluray.x264[EtHD]
+2018-10-09 00:15 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for rusted-the.curse.of.the.living.beauty.1080p.bluray.x264-sample
+2018-10-09 00:15 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for At.Li.Layla.AKA.Next.To.Her.2014.DVDRip.x264-HANDJOB
+2018-10-09 00:16 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for vmt-magus-xvid-cd1
+2018-10-09 00:16 WARNING  tmdb_lookup   clean-movies-queue TMDB lookup failed for vmt-magus-xvid-cd2
+2018-10-09 00:17 INFO     trakt_list    clean-movies-queue Successfully deleted to/from list watchlist: 0 movie(s), 0 show(s), 0 episode(s), 0 season(s).
+2018-10-09 00:17 INFO     transmission  clean-transmission Removing finished torrent `Kidding - S01E05 - The New You - [720p webdl h264].mkv` from transmission
+2018-10-09 00:17 INFO     transmission  clean-transmission Removing finished torrent `The Walking Dead - S09E01 - A New Beginning - [720p webrip h264].mkv` from transmission
+2018-10-09 00:17 INFO     transmission  clean-transmission Removing finished torrent `The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv` from transmission
+2018-10-09 00:17 INFO     trakt_list    update-series-list Successfully added to/from list watchlist: 0 movie(s), 4 show(s), 0 episode(s), 0 season(s).
+2018-10-09 00:18 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Big Bang Theory,season=11,episode=7> has expired, refreshing from tvdb
+2018-10-09 00:18 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-09 00:18 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

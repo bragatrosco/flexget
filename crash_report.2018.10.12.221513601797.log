@@ -1,0 +1,66 @@
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Vikings" set to S05E11
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Stan Lee's Lucky Man 2016" set to S02E02
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Supernatural" set to S14E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Black Mirror" set to S05E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Marvels Cloak &amp; Dagger" set to S01E02
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Gone (2017)" set to S01E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Star Trek Discovery 2017" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Genius (2017)" set to S02E02
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Good Doctor" set to S02E04
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Ozark 2017" set to S01E09
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Humans" set to S04E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "American Crime Story" set to S01E04
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The 100" set to S06E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Sinner 2017" set to S02E06
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "A Discovery Of Witches 2018" set to S01E05
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "This Is Us 2016" set to S02E08
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Into the Badlands" set to S03E02
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Instinct None" set to S01E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Condor 2018" set to S01E04
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Westworld" set to S02E10
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Counterpart" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Unforgotten" set to S04E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "How To Get Away With Murder 2014" set to S05E03
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Deutschland 83" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Britannia" set to S01E08
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Inheritance Lawyer Shinichi Kakizaki 2016" set to S01E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Goliath" set to S03E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Outlander 2014" set to S04E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Salvation" set to S03E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Handmaids Tale" set to S03E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Killjoys 2015" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Expanse" set to S03E13
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "9-1-1" set to S01E05
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Flash (2014)" set to S05E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Young Sheldon" set to S02E04
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "House of Cards (US)" set to S05E12
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Into The Dark 2018" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Frankie Drake Mysteries" set to S01E02
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Speechless" set to S02E14
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Golden Life" set to S02E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "The Girlfriend Experience" set to S03E01
+2018-10-12 22:02 INFO     set_series_begin set-series-nextep First episode for "Blindspot" set to S04E01
+2018-10-12 22:15 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 22:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 22:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 22:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 22:15 INFO     subtitles     download-subtitles Subtitles found for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv
+2018-10-12 22:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 22:15 INFO     subtitles     download-subtitles Name computed for /mnt/MOGAMI/Filmes/The Darkest Minds (2018) - [1080p webrip h264].mp4 was The Darkest Minds
+2018-10-12 22:15 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/task.py", line 486, in __run_plugin
+    return method(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/event.py", line 23, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/output/subtitles_subliminal.py", line 197, in on_task_output
+    hearing_impaired=hearing_impaired)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/core.py", line 211, in download_best_subtitles
+    for s in subtitles], key=operator.itemgetter(1), reverse=True)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/score.py", line 106, in compute_score
+    matches = subtitle.get_matches(video)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/providers/legendastv.py", line 150, in get_matches
+    matches |= guess_matches(video, guessit(self.name, {'type': self.type}))
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/subtitle.py", line 235, in guess_matches
+    if video.format and 'format' in guess and guess['format'].lower() == video.format.lower():
+AttributeError: 'list' object has no attribute 'lower'

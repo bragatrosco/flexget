@@ -1,0 +1,37 @@
+2018-10-11 16:09 DEBUG    manager                       Figuring out config load paths
+2018-10-11 16:09 DEBUG    manager                       Adding virtualenv path
+2018-10-11 16:09 DEBUG    manager                       Found config: /home/braga/flexget/config.yml
+2018-10-11 16:09 DEBUG    manager                       Config file /home/braga/flexget/config.yml selected
+2018-10-11 16:09 INFO     manager                       Daemonizing...
+2018-10-11 16:09 INFO     manager                       Daemonize complete. New PID: 2100
+2018-10-11 16:09 INFO     scheduler                     Starting scheduler
+2018-10-11 16:09 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:3539
+2018-10-11 16:09 INFO     web_server_daemon                 Initiating API
+2018-10-11 16:09 INFO     web_server_daemon                 Registering WebUI v1
+2018-10-11 16:09 INFO     web_server                    Web interface available at http://192.168.1.8:3539
+2018-10-11 16:09 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-11 16:09 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-11 16:09 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-11 16:09 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/American Horror Story/American Horror Story - S08E05 - Boy Wonder - [720p webrip h264].mkv was American Horror Story
+2018-10-11 16:09 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Flash (2014)/The Flash (2014) - S05E01 - [1080p webdl h264].mkv was The Flash
+2018-10-11 16:09 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Last Ship/The Last Ship - S05E05 - Warriors - [720p webrip h265].mkv was The Last Ship
+2018-10-11 16:09 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E01 - L-O-N-- LONDON (1) - [720p hdtv h264].mkv was Speechless
+2018-10-11 16:10 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=Blindspot,season=3,episode=14> has expired, refreshing from tvdb
+2018-10-11 16:10 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Big Bang Theory,season=11,episode=7> has expired, refreshing from tvdb
+2018-10-11 16:10 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=Young Sheldon,season=1,episode=10> has expired, refreshing from tvdb
+2018-10-11 16:10 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-11 16:10 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+2018-10-11 16:10 CRITICAL manager       get-series-nextep An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.11.161041341627.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-11 16:11 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The 100,season=6,episode=1> has expired, refreshing from tvdb
+2018-10-11 16:11 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Terror,season=2,episode=1> has expired, refreshing from tvdb
+2018-10-11 16:11 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

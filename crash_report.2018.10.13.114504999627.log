@@ -1,0 +1,66 @@
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "The Handmaids Tale" set to S03E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Killjoys 2015" set to S02E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "The Expanse" set to S03E13
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "9-1-1" set to S01E05
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "The Flash (2014)" set to S05E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Young Sheldon" set to S02E04
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "House of Cards (US)" set to S05E12
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Into The Dark 2018" set to S02E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Frankie Drake Mysteries" set to S01E02
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Speechless" set to S02E14
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Golden Life" set to S02E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "The Girlfriend Experience" set to S03E01
+2018-10-13 10:02 INFO     set_series_begin set-series-nextep First episode for "Blindspot" set to S04E01
+2018-10-13 10:03 ERROR    discover      download-movies-1080p-discover Error searching with piratebay: RequestException: HTTPSConnectionPool(host='tpbbay.eu', port=443): Read timed out. (read timeout=30)
+2018-10-13 10:03 ERROR    discover      download-movies-1080p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:03 ERROR    discover      download-movies-1080p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:04 ERROR    discover      download-movies-720p-discover Error searching with piratebay: RequestException: Requests to this site (tpbbay.eu) have timed out recently. Waiting before trying again.
+2018-10-13 10:15 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-13 10:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-13 10:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-13 10:15 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-13 10:15 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.13.101505744287.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-13 10:15 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-13 10:30 WARNING  inputs        download-series-rss Error during input plugin rss: HTTP error 502 received from http://showrss.info/user/5325.rss?magnets=true&namespaces=true&name=null&quality=null&re=null
+2018-10-13 10:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-13 10:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-13 10:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-13 10:45 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-13 10:45 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.13.104505446797.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-13 10:45 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-13 10:57 INFO     move          move-series     Creating destination directory `/mnt/YAMATO/Series/Titans (2018)/`
+2018-10-13 10:58 INFO     move          move-series     `/mnt/BISMARK/downloads/series/Titans/Titans.2018.S01E01.Titans.720p.DCU.WEB-DL.AAC2.0.H264-NTb[eztv].mkv` has been moved to `/mnt/YAMATO/Series/Titans (2018)/Titans (2018) - S01E01 - Titans - [720p webdl h264 aac].mkv`
+2018-10-13 10:58 INFO     move          move-series     Path `/mnt/BISMARK/downloads/series/Titans` has been deleted because was less than clean_source safe value.
+2018-10-13 10:58 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-13 11:15 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-13 11:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-13 11:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-13 11:15 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-13 11:15 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.13.111505517506.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-13 11:15 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-13 11:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-13 11:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-13 11:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-13 11:45 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/task.py", line 486, in __run_plugin
+    return method(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/event.py", line 23, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/output/subtitles_subliminal.py", line 197, in on_task_output
+    hearing_impaired=hearing_impaired)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/core.py", line 211, in download_best_subtitles
+    for s in subtitles], key=operator.itemgetter(1), reverse=True)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/score.py", line 106, in compute_score
+    matches = subtitle.get_matches(video)
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/providers/legendastv.py", line 147, in get_matches
+    matches |= guess_matches(video, guessit(self.archive.name, {'type': self.type}))
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/subtitle.py", line 235, in guess_matches
+    if video.format and 'format' in guess and guess['format'].lower() == video.format.lower():
+AttributeError: 'list' object has no attribute 'lower'

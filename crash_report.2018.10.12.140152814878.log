@@ -1,0 +1,60 @@
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Goliath" set to S03E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Outlander 2014" set to S04E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Salvation" set to S03E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "The Handmaids Tale" set to S03E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Killjoys 2015" set to S02E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "The Expanse" set to S03E13
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "9-1-1" set to S01E05
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "The Flash (2014)" set to S05E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Young Sheldon" set to S02E04
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "House of Cards (US)" set to S05E12
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Into The Dark 2018" set to S02E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Frankie Drake Mysteries" set to S01E02
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Speechless" set to S02E14
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Golden Life" set to S02E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "The Girlfriend Experience" set to S03E01
+2018-10-12 12:02 INFO     set_series_begin set-series-nextep First episode for "Blindspot" set to S03E14
+2018-10-12 12:15 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 12:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 12:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 12:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 12:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 12:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Big Bang Theory/The Big Bang Theory - S12E04 - The Tam Turbulence - [720p hdtv h264].mkv was The Big Bang Theory
+2018-10-12 12:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Young Sheldon/Young Sheldon - S02E04 - A Financial Secret and Fish Sauce - [720p hdtv h264].mkv was Young Sheldon
+2018-10-12 12:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 12:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 12:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 12:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 12:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 12:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Big Bang Theory/The Big Bang Theory - S12E04 - The Tam Turbulence - [720p hdtv h264].mkv was The Big Bang Theory
+2018-10-12 12:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Young Sheldon/Young Sheldon - S02E04 - A Financial Secret and Fish Sauce - [720p hdtv h264].mkv was Young Sheldon
+2018-10-12 13:01 WARNING  inputs        download-series-rss Error during input plugin rss: Unable to download the RSS for task download-series-rss (https://eztv.ag/ezrss.xml): HTTPSConnectionPool(host='eztv.ag', port=443): Read timed out.
+2018-10-12 13:15 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 13:15 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Big Bang Theory/The Big Bang Theory - S12E04 - The Tam Turbulence - [720p hdtv h264].mkv was The Big Bang Theory
+2018-10-12 13:15 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Young Sheldon/Young Sheldon - S02E04 - A Financial Secret and Fish Sauce - [720p hdtv h264].mkv was Young Sheldon
+2018-10-12 13:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 13:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 13:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 13:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 13:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 13:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/The Big Bang Theory/The Big Bang Theory - S12E04 - The Tam Turbulence - [720p hdtv h264].mkv was The Big Bang Theory
+2018-10-12 13:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Young Sheldon/Young Sheldon - S02E04 - A Financial Secret and Fish Sauce - [720p hdtv h264].mkv was Young Sheldon
+2018-10-12 14:00 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-12 14:00 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+2018-10-12 14:00 CRITICAL manager       get-series-nextep An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.12.140055364195.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-12 14:01 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Terror,season=2,episode=1> has expired, refreshing from tvdb
+2018-10-12 14:01 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

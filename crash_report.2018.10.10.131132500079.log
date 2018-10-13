@@ -1,0 +1,28 @@
+2018-10-10 13:10 DEBUG    manager                       Figuring out config load paths
+2018-10-10 13:10 DEBUG    manager                       Adding virtualenv path
+2018-10-10 13:10 DEBUG    manager                       Found config: /home/braga/flexget/config.yml
+2018-10-10 13:10 DEBUG    manager                       Config file /home/braga/flexget/config.yml selected
+2018-10-10 13:10 INFO     manager                       Daemonizing...
+2018-10-10 13:10 INFO     manager                       Daemonize complete. New PID: 4896
+2018-10-10 13:10 INFO     scheduler                     Starting scheduler
+2018-10-10 13:10 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:3539
+2018-10-10 13:10 INFO     web_server_daemon                 Initiating API
+2018-10-10 13:10 INFO     web_server_daemon                 Registering WebUI v1
+2018-10-10 13:10 INFO     web_server                    Web interface available at http://192.168.1.8:3539
+2018-10-10 13:10 INFO     remember_rej  download-series-rss Remembering rejection of `The Flash 2014 S05E01 HDTV x264 SVA`
+2018-10-10 13:10 INFO     remember_rej  download-series-rss Remembering rejection of `This Is Us S03E03 HDTV x264 KILLERS`
+2018-10-10 13:10 INFO     task          download-series-rss Plugin content_size has requested task to be ran again after execution has completed.
+2018-10-10 13:10 INFO     task          download-series-rss Rerunning the task in case better resolution can be achieved.
+2018-10-10 13:11 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Big Bang Theory,season=11,episode=7> has expired, refreshing from tvdb
+2018-10-10 13:11 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-10 13:11 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

@@ -1,0 +1,60 @@
+2018-10-12 22:46 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-12 22:46 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.12.224604015601.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-12 22:46 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-12 23:00 WARNING  inputs        download-series-rss Error during input plugin rss: HTTP error 502 received from http://showrss.info/user/5325.rss?magnets=true&namespaces=true&name=null&quality=null&re=null
+2018-10-12 23:00 WARNING  inputs        download-series-rss Error during input plugin rss: HTTP error 521 received from https://eztv.ag/ezrss.xml
+2018-10-12 23:16 INFO     move          move-series     `/mnt/BISMARK/downloads/series/Blindspot/Blindspot - S04E01 - Hella Duplicitous - [720p hdtv h264].mkv` has been moved to `/mnt/YAMATO/Series/Blindspot/Blindspot - S04E01 - Hella Duplicitous - [720p hdtv h264].mkv`
+2018-10-12 23:16 INFO     move          move-series     Path `/mnt/BISMARK/downloads/series/Blindspot` has been deleted because was less than clean_source safe value.
+2018-10-12 23:16 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 23:16 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E02 - L-O-N-- LONDON (2) - [720p hdtv h264].mkv was Speechless
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 23:16 INFO     subtitles     download-subtitles Subtitles found for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Blindspot/Blindspot - S04E01 - Hella Duplicitous - [720p hdtv h264].mkv was Blindspot
+2018-10-12 23:16 INFO     subtitles     download-subtitles Name computed for /mnt/MOGAMI/Filmes/The Darkest Minds (2018) - [1080p webrip h264].mp4 was The Darkest Minds
+2018-10-12 23:16 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-12 23:16 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.12.231627283967.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-12 23:16 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-12 23:45 INFO     exec          move-series     Stdout: find: ‘/mnt/BISMARK/downloads/series/*’: No such file or directory
+2018-10-12 23:45 INFO     exec          move-movies     Stdout: find: ‘/mnt/BISMARK/downloads/filmes/*’: No such file or directory
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Supernatural/Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv was Supernatural
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Speechless/Speechless - S03E02 - L-O-N-- LONDON (2) - [720p hdtv h264].mkv was Speechless
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv was How to Get Away with Murder
+2018-10-12 23:45 INFO     subtitles     download-subtitles Subtitles found for /mnt/YAMATO/Series/How to Get Away with Murder/How to Get Away with Murder - S05E03 - The Baby Was Never Dead - [720p hdtv h264].mkv
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/This Is Us/This Is Us - S03E03 - Katie Girls - [720p webdl h264].mkv was This Is
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/YAMATO/Series/Blindspot/Blindspot - S04E01 - Hella Duplicitous - [720p hdtv h264].mkv was Blindspot
+2018-10-12 23:45 INFO     subtitles     download-subtitles Name computed for /mnt/MOGAMI/Filmes/The Darkest Minds (2018) - [1080p webrip h264].mp4 was The Darkest Minds
+2018-10-12 23:45 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subliminal: 'list' object has no attribute 'lower'
+2018-10-12 23:45 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.12.234514241157.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-12 23:45 WARNING  task          download-subtitles Aborting task (plugin: subliminal)
+2018-10-13 00:01 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-13 00:01 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-13 00:02 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-13 00:03 WARNING  movie_list    clean-movies-queue Could not get a movie name, skipping
+2018-10-13 00:04 INFO     trakt_list    clean-movies-queue Successfully deleted to/from list watchlist: 0 movie(s), 0 show(s), 0 episode(s), 0 season(s).
+2018-10-13 00:04 INFO     transmission  clean-transmission Removing finished torrent `The.Flash.2014.S05E01.iNTERNAL.1080p.WEB.X264-EDHD[rarbg]` from transmission
+2018-10-13 00:04 INFO     transmission  clean-transmission Removing finished torrent `The Big Bang Theory - S12E04 - The Tam Turbulence - [720p hdtv h264].mkv` from transmission
+2018-10-13 00:04 INFO     transmission  clean-transmission Removing finished torrent `Supernatural - S14E01 - Stranger in a Strange Land - [720p hdtv h264].mkv` from transmission
+2018-10-13 00:04 INFO     transmission  clean-transmission Removing finished torrent `Young Sheldon - S02E04 - A Financial Secret and Fish Sauce - [720p hdtv h264].mkv` from transmission
+2018-10-13 00:04 INFO     trakt_list    update-series-list Successfully added to/from list watchlist: 0 movie(s), 2 show(s), 0 episode(s), 0 season(s).
+2018-10-13 00:05 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=Blindspot,season=4,episode=1> has expired, refreshing from tvdb
+2018-10-13 00:05 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Flash (2014),season=5,episode=1> has expired, refreshing from tvdb
+2018-10-13 00:05 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+2018-10-13 00:05 CRITICAL manager       get-series-nextep An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.13.000520886593.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.15.1
+2018-10-13 00:05 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=9-1-1,season=1,episode=5> has expired, refreshing from tvdb
+2018-10-13 00:05 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Big Bang Theory,season=12,episode=4> has expired, refreshing from tvdb
+2018-10-13 00:06 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=Supernatural,season=14,episode=1> has expired, refreshing from tvdb
+2018-10-13 00:06 INFO     api_tvdb      get-series-nextep Data for <TVDBEpisode series=The Terror,season=2,episode=1> has expired, refreshing from tvdb
+2018-10-13 00:06 ERROR    lazy_lookup   get-series-nextep Unhandled error in lazy lookup plugin: %d format: a number is required, not NoneType
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/utils/lazy_dict.py", line 37, in __getitem__
+    func(self.store)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 159, in lazy_episode_lookup
+    entry.update_using_map(self.episode_map, episode)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/entry.py", line 276, in update_using_map
+    v = value(source_item)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/metainfo/thetvdb_lookup.py", line 99, in <lambda>
+    'tvdb_ep_id': lambda ep: 'S%02dE%02d' % (ep.season_number, ep.episode_number)
+TypeError: %d format: a number is required, not NoneType

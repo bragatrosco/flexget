@@ -1,0 +1,33 @@
+2018-10-08 09:25 DEBUG    manager                       Figuring out config load paths
+2018-10-08 09:25 DEBUG    manager                       Adding virtualenv path
+2018-10-08 09:25 DEBUG    manager                       Found config: /home/braga/flexget/config.yml
+2018-10-08 09:25 DEBUG    manager                       Config file /home/braga/flexget/config.yml selected
+2018-10-08 09:25 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-10-08 09:25 INFO     manager                       Daemonizing...
+2018-10-08 09:25 INFO     manager                       Daemonize complete. New PID: 6172
+2018-10-08 09:25 INFO     scheduler                     Starting scheduler
+2018-10-08 09:25 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:3539
+2018-10-08 09:25 INFO     web_server_daemon                 Initiating API
+2018-10-08 09:25 INFO     web_server_daemon                 Registering WebUI v1
+2018-10-08 09:25 INFO     web_server                    Web interface available at http://192.168.1.8:3539
+2018-10-08 09:25 INFO     exec          move-series     Stdout: find: '/mnt/BISMARK/downloads/series/*': No such file or directory
+2018-10-08 09:25 INFO     exec          move-movies     Stdout: find: '/mnt/BISMARK/downloads/filmes/*': No such file or directory
+2018-10-08 09:25 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subtitle_list: 'ascii' codec can't decode byte 0xc3 in position 42: ordinal not in range(128)
+2018-10-08 09:25 CRITICAL manager       download-subtitles An unexpected crash has occurred. Writing crash report to /home/braga/flexget/crash_report.2018.10.08.092553029731.log. Please verify you are running the latest version of flexget by using "flexget -V" from CLI or by using version_checker plugin at http://flexget.com/wiki/Plugins/version_checker. You are currently using version 2.14.25
+2018-10-08 09:25 WARNING  task          download-subtitles Aborting task (plugin: subtitle_list)
+2018-10-08 09:26 INFO     parser_internal download-series-rss Title `ables 2018 720p AMZN WEB-DL DDP2 0 x264-ABM` looks like series `Ables 2018 720p Amzn Web-dl Ddp2` but cannot find a(n) `ep` style identifier.
+2018-10-08 09:45 INFO     exec          move-series     Stdout: find: '/mnt/BISMARK/downloads/series/*': No such file or directory
+2018-10-08 09:45 INFO     exec          move-movies     Stdout: find: '/mnt/BISMARK/downloads/filmes/*': No such file or directory
+2018-10-08 09:45 CRITICAL task          download-subtitles BUG: Unhandled error in plugin subtitle_list: 'ascii' codec can't decode byte 0xc3 in position 42: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/task.py", line 486, in __run_plugin
+    return method(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/event.py", line 23, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/list/subtitle_list.py", line 306, in on_task_input
+    elif config['check_subtitles'] and self.all_subtitles_exist(item['location'], languages):
+  File "/home/braga/flexget/lib/python2.7/site-packages/flexget/plugins/list/subtitle_list.py", line 249, in all_subtitles_exist
+    existing_subtitles = set(subliminal.core.search_external_subtitles(file).values())
+  File "/home/braga/flexget/lib/python2.7/site-packages/subliminal/core.py", line 341, in search_external_subtitles
+    if not p.startswith(fileroot) or not p.endswith(SUBTITLE_EXTENSIONS):
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 42: ordinal not in range(128)
